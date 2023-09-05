@@ -1,22 +1,15 @@
-Hey there, I'm Erick Swolkin, a 31-year-old professional ballet dancer hailing from Brazil. For over a decade, I performed as a demi-soloist for the highly acclaimed Bolshoi Theater in Moscow. However, due to political tensions, I had to leave and join the Sttatsballet Berlin company, where I currently dance.
+Bailarino de dia, entusiasta de tecnologia à noite! 🌟
 
-Lately, I've been pursuing an old dream of mine - learning a Full Stack Python course. Although I'm not an expert in the field, I believe that my discipline, strong desire to learn, and persistence - which have helped me excel in my current career - will aid me in making this transition productive and enjoyable.
+Com 15 anos de experiência em dança, incluindo um impressionante período de 10 anos no prestigioso Teatro Bolshoi em Moscou, dominei a arte da disciplina, da precisão e de cativar o público. Mas há mais em mim do que apenas movimentos virtuosos e performances de tirar o fôlego.
 
-I'm excited about the opportunity to work with a highly skilled team, expand my knowledge and skills, and grow my network to achieve my goals.
+Sempre tive uma curiosidade insaciável pela tecnologia e sou constantemente atraído pelos desafios que ela apresenta. É por isso que fiz da minha missão desenvolver e aprofundar minhas habilidades nesse campo em constante evolução. Quero ser mais do que apenas um dançarino; quero ser uma referência, um especialista em minhas áreas de especialização.
 
-Please accept mine sincere gratitude for your time and consideration.
+Em um mundo onde o conhecimento é disperso, acredito em manter minha mente aberta a novas ideias, conhecimentos e desafios. Afinal de contas, são exatamente essas coisas que nos trazem soluções inovadoras e ferramentas exclusivas para superar qualquer obstáculo.
 
-Sicerely, Erick Swolkin.
+Para garantir que eu alcance meus objetivos com o máximo de assertividade, estou atualmente matriculado no curso da EBAC -  FULL STACK - Python. Esse programa me equipará com as mais recentes percepções e estratégias para me destacar no cenário digital.
+
+Portanto, quer eu esteja dançando pelo palco ou mergulhando de cabeça no mundo da tecnologia, sempre dou o meu melhor. Junte-se a mim nesta jornada empolgante, pois combino minha paixão pela dança com minha fome de avanços tecnológicos. Juntos, vamos criar magia que transcende os limites. 💃💻
 
 
 
-- 👋 Hi, I’m @MrSwolkin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-MrSwolkin/MrSwolkin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
