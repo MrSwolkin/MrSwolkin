@@ -10,6 +10,6 @@ Para garantir que eu alcance meus objetivos com o máximo de assertividade, esto
 
 Portanto, quer eu esteja dançando pelo palco ou mergulhando de cabeça no mundo da tecnologia, sempre dou o meu melhor. Junte-se a mim nesta jornada empolgante, pois combino minha paixão pela dança com minha fome de avanços tecnológicos. Juntos, vamos criar magia que transcende os limites. 💃💻
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrSwolkin)](https://github.com/anuraghazra/github-readme-stats)
 
 
