@@ -6,7 +6,7 @@ Sou um bailarino de ballet clássico e transição para a  carreira de tecnologi
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erickswolkin/)
 
 
-![MrSwolkin GitHub stats](https://github-readme-stats.vercel.app/api?username=MrSwolkin&show_icons=true&theme=dracula)
+![MrSwolkin GitHub stats](https://github-readme-stats.vercel.app/api?username=MrSwolkin&show_icons=true&theme=dark)
 
 
 ## Tecnologias que sou familiarizado 💻
