@@ -1,5 +1,5 @@
 ### Olá, meu nome é Erick Swolkin ✌️
-Sou um bailarino de ballet clássico e transição para a  carreira de tecnologia. 🚀
+Sou um bailarino de ballet clássico em transição para a carreira de tecnologia. 🚀
 #### Social
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-python-dev/)
