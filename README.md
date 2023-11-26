@@ -1,15 +1,24 @@
-Bailarino de dia, entusiasta de tecnologia à noite! 🌟
+### Olá, meu nome é Erick Swolkin ✌️
+Sou um bailarino de ballet clássico e transição para a  carreira de tecnologia. 🚀
+#### Social
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-python-dev/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erickswolkin/)
 
-Com 15 anos de experiência em dança, incluindo um impressionante período de 10 anos no prestigioso Teatro Bolshoi em Moscou, dominei a arte da disciplina, da precisão e de cativar o público. Mas há mais em mim do que apenas movimentos virtuosos e performances de tirar o fôlego.
 
-Sempre tive uma curiosidade insaciável pela tecnologia e sou constantemente atraído pelos desafios que ela apresenta. É por isso que fiz da minha missão desenvolver e aprofundar minhas habilidades nesse campo em constante evolução. Quero ser mais do que apenas um dançarino; quero ser uma referência, um especialista em minhas áreas de especialização.
+![MrSwolkin GitHub stats](https://github-readme-stats.vercel.app/api?username=MrSwolkin&show_icons=true&theme=dark)
 
-Em um mundo onde o conhecimento é disperso, acredito em manter minha mente aberta a novas ideias, conhecimentos e desafios. Afinal de contas, são exatamente essas coisas que nos trazem soluções inovadoras e ferramentas exclusivas para superar qualquer obstáculo.
 
-Para garantir que eu alcance meus objetivos com o máximo de assertividade, estou atualmente matriculado no curso da EBAC -  FULL STACK - Python. Esse programa me equipará com as mais recentes percepções e estratégias para me destacar no cenário digital.
+## Tecnologias que sou familiarizado 💻
 
-Portanto, quer eu esteja dançando pelo palco ou mergulhando de cabeça no mundo da tecnologia, sempre dou o meu melhor. Junte-se a mim nesta jornada empolgante, pois combino minha paixão pela dança com minha fome de avanços tecnológicos. Juntos, vamos criar magia que transcende os limites. 💃💻
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrSwolkin)](https://github.com/anuraghazra/github-readme-stats)
-
+<div style="display: inline_block"><br/>
+    <img alig='center' alt='html5' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
+    <img alig='center' alt='css' src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white'>
+    <img alig='center' alt='javascript' src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'>
+    <img alig='center' alt='typeScript' src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'>
+    <img alig='center' alt='node.js' src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'>
+    <img alig='center' alt='sass' src='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white'>
+    <img alig='center' alt='bootstrap' src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white'>
+     <img alig='center' alt='react' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
+    <img alig='center' alt='python' src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'>
+</div><br/>
 
