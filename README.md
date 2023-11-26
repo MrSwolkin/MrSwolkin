@@ -1,11 +1,12 @@
 ### Olá, meu nome é Erick Swolkin ✌️
 Sou um bailarino de ballet clássico e transição para a  carreira de tecnologia. 🚀
 #### Social
+
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-python-dev/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erickswolkin/)
 
 
-![MrSwolkin GitHub stats](https://github-readme-stats.vercel.app/api?username=MrSwolkin&show_icons=true&theme=dark)
+![MrSwolkin GitHub stats](https://github-readme-stats.vercel.app/api?username=MrSwolkin&show_icons=true&theme=dracula)
 
 
 ## Tecnologias que sou familiarizado 💻
@@ -21,4 +22,7 @@ Sou um bailarino de ballet clássico e transição para a  carreira de tecnologi
      <img alig='center' alt='react' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
     <img alig='center' alt='python' src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'>
 </div><br/>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSwolkin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
