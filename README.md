@@ -1,28 +1,30 @@
-### Olá, meu nome é Erick Swolkin ✌️
-Sou um bailarino de ballet clássico em transição para a carreira de tecnologia. 🚀
-#### Social
+# Erick Swolkin
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-python-dev/)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erickswolkin/)
+**Backend Developer | Python & Django | Berlin, Germany**
 
+Desenvolvedor backend com foco em Python/Django e experiencia em construcao de APIs REST,
+sistemas de gestao e aplicacoes financeiras. Transicao de carreira que me trouxe disciplina,
+resiliencia e capacidade de aprendizado acelerado.
 
-![MrSwolkin GitHub stats](https://github-readme-stats.vercel.app/api?username=MrSwolkin&show_icons=true&theme=dark)
+## Stack Principal
 
+**Backend:** Python | Django | Django REST Framework | Node.js
+**Frontend:** React | TypeScript | HTML5 | CSS3 | Sass | Bootstrap
+**Banco de Dados:** PostgreSQL | SQLite
+**DevOps:** Git | GitHub | Vercel | PythonAnywhere
+**Outros:** API REST | MCP Servers | Web Scraping | yFinance
 
-## Tecnologias que sou familiarizado 💻
+## Projetos em Destaque
 
-<div style="display: inline_block"><br/>
-    <img alig='center' alt='python' src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'>
-    <img alig='center' alt='html5' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
-    <img alig='center' alt='css' src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white'>
-    <img alig='center' alt='javascript' src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'>
-    <img alig='center' alt='typeScript' src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'>
-    <img alig='center' alt='node.js' src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'>
-    <img alig='center' alt='sass' src='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white'>
-    <img alig='center' alt='bootstrap' src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white'>
-    <img alig='center' alt='react' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
-</div><br/>
+| Projeto | Descricao | Stack |
+|---------|-----------|-------|
+| [InvestSIO](link) | Plataforma de analise de investimentos | Python, Django, HTML |
+| [SGE](link) | Sistema de Gestao de Estoque completo | Python, Django |
+| [FinanPy](link) | Ferramenta de gestao financeira pessoal | Python, HTML |
+| [BookStore](link) | App de livraria com CRUD completo | Python, Django |
+| [Backend SwolPack](link) | API de gestao de despesas | Python, Django REST |
 
+## Contato
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSwolkin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![LinkedIn](badge)](https://www.linkedin.com/in/erick-python-dev/)
+[![Email](badge)](swolkinerick@gmail.com)
